@@ -1,0 +1,5 @@
+.melodyGrid {
+    display: grid;
+    grid-template-columns: repeat(5, 220px);
+    gap: 20px;
+}
